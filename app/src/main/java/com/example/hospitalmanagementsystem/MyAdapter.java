@@ -74,7 +74,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
                             public void onComplete(@NonNull Task<Void> task) {
                                 if(task.isSuccessful()){
                                     Toast.makeText(context, "Appointment Created Successfully", Toast.LENGTH_SHORT).show();
-                                    Intent intent = new Intent(context,MyAppointmentsActivity.class);
+                                    Intent intent = new Intent(context,AllAppointmentsActivity.class);
                                     context.startActivity(intent);
                                 }else{
                                     Toast.makeText(context, "Create Appointment failed,Try again", Toast.LENGTH_SHORT).show();

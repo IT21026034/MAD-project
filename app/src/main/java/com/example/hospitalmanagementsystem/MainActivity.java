@@ -41,8 +41,23 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        myProfileButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent= new Intent(MainActivity.this,MyProfileView.class);
+                startActivity(intent);
+            }
+        });
 
 
+
+        myAppointmentsButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent= new Intent(MainActivity.this,AllAppointmentsActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 
 
