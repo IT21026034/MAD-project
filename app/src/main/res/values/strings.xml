@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MADPROJECT</string>
+    <string name="MY_PROFILE">MY PROFILE</string>
+    <string name="Malini_Jayaweera">Malini Jayaweera</string>
+    <string name="DELETE_BUTTON">DELETE</string>
+    <string name="EDIT_VALUE">EDIT</string>
+    <string name="Prescription">PRESCRIPTION</string>
+    <string name="VIEW_REVIEW">VIEW REVIEW</string>
+    <string name="DOCTOR_PROFILE">DOCTOR PROFILE</string>
+    <string name="title_activity_activityviewappointment">activityviewappointment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="BACK">GO BACK TO HOME</string>
+    <string name="MY_APPOINTMENT">MY APPOINTMENTS</string>
+    <string name="ADD_REVIEW">ADD REVIEW</string>
+    <string name="CHANGE_BOOKING">CHANGE BOOKING</string>
+    <string name="DELETE_BOOKING">DELETE BOOKING</string>
+    <string name="CREATE_APPOINTMENT">CREATE APPOINTMENT</string>
+    <string name="RATING_AND_REVIEWS">RATING AND REVIEWS</string>
+    <string name="Pending" />
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="date_label_set">Press the button to set the date</string>
+    <string name="date_button_set">Set Date</string>
+    <string name="date_view_set">The Date is: </string>
+    <string name="date_selected"></string>
+</resources>
+
+
+
+
